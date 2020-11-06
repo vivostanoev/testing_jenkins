@@ -1,15 +1,20 @@
+import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Allure;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.Assert;
 import org.junit.Test;
+import org.openqa.selenium.By;
+
+import static com.codeborne.selenide.Selectors.withText;
+import static com.codeborne.selenide.Selenide.$;
 
 public class OpenBrowserTests extends Base{
 
     @Test
     @DisplayName("Test Opening browser dialog")
-    public void openBrowser()
+    public void openBrowser() throws Exception
     {
-
+        $(withText("Laptops")).click();
     }
 
 
