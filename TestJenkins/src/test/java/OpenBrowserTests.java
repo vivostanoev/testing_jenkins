@@ -14,6 +14,7 @@ public class OpenBrowserTests extends Base{
     @DisplayName("Test Opening browser dialog")
     public void openBrowser() throws Exception
     {
+        Allure.step("Click menu item 'Laptops'");
         $(withText("Laptops")).click();
     }
 
