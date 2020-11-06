@@ -1,3 +1,4 @@
+import io.qameta.allure.Allure;
 import org.junit.After;
 import org.junit.Before;
 
@@ -7,6 +8,7 @@ public class Base {
 
     @Before
     public void beforeTest() {
+        Allure.step("Open a browser dialog");
         open("https://www.demoblaze.com/");
     }
 

@@ -11,6 +11,14 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.qameta.allure:allure-junit4:2.13.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.qameta.allure:allure-java-commons:2.13.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.qameta.allure:allure-model:2.13.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.tika:tika-core:1.24.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jooq:joor-java-8:0.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-compiler-plugin:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:3.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-model:3.0" level="project" />
