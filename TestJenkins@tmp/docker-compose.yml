@@ -1,16 +1,15 @@
-version: '3.7'
+version : '3.7'
 
 services:
 
   hub:
     image: selenium/hub:latest
-      ports:
+    ports:
         - 4444:4444
 
   chrome:
     image: selenium/node-chrome:latest
-      depends_on:
+    depends_on:
         - hub
-        enviroment:
-          -HUB_HOST=hub
-
+    enviroment:
+        - HUB_HOST=hub
