@@ -6,7 +6,7 @@ pipeline {
                 docker { image 'anapsix/alpine-java' }
             }
             steps {
-                echo 'JDK is installed'
+                sh 'anapsix/alpine-java'
             }
         }
         stage('Pull standalone') {
@@ -14,7 +14,7 @@ pipeline {
                         docker { image 'selenium/standalone-chrome' }
                     }
                     steps {
-                        echo 'chrome is installed'
+                        sh 'docker run -d -P selenium/standalone-chrome'
                     }
         }
          stage('Pull Maven') {
