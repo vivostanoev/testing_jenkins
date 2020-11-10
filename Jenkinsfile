@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'mvn -Dtest=OpenBrowserTests test'
+                sh 'mvn clean install'
             }
         }
     }
