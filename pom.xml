@@ -32,6 +32,9 @@
                             <value>io.qameta.allure.junit4.AllureJunit4</value>
                         </property>
                     </properties>
+                    <includes>
+                        <include>OpenBrowserTests.java</include>
+                    </includes>
                 </configuration>
                 <dependencies>
                     <dependency>
