@@ -1,3 +1,5 @@
+import com.codeborne.selenide.SelenideDriver;
+import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Allure;
 import org.junit.After;
 import org.junit.Before;
@@ -15,6 +17,6 @@ public class Base {
     @After
     public void afterTest()
     {
-
+        WebDriverRunner.closeWindow();
     }
 }

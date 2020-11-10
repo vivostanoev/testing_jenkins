@@ -16,6 +16,7 @@ public class OpenBrowserTests extends Base{
     {
         Allure.step("Click menu item 'Laptops'");
         $(withText("Laptops")).click();
+        $(withText("MacBook air")).click();
     }
 
 
