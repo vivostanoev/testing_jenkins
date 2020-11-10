@@ -1,0 +1,79 @@
+{
+  "uid" : "dfc9b95502ee72c3",
+  "name" : "Test Opening browser dialog",
+  "fullName" : "OpenBrowserTests.openBrowser",
+  "historyId" : "e1f5de24c8af9cd44cbd756a47d2480e",
+  "time" : {
+    "start" : 1604673168144,
+    "stop" : 1604673168373,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open a browser dialog",
+      "time" : {
+        "start" : 1604673168144,
+        "stop" : 1604673168144,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "OpenBrowserTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "openBrowser"
+  }, {
+    "name" : "suite",
+    "value" : "OpenBrowserTests"
+  }, {
+    "name" : "host",
+    "value" : "EPBGSOFL0122"
+  }, {
+    "name" : "thread",
+    "value" : "15968@EPBGSOFL0122.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfc9b95502ee72c3.json",
+  "parameterValues" : [ ]
+}

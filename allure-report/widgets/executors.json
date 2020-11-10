@@ -1,0 +1,19 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/",
+  "buildOrder" : 70,
+  "buildName" : "tesing_loginOnly #70",
+  "buildUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/70/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/70/allure"
+}, {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/",
+  "buildOrder" : 70,
+  "buildName" : "tesing_loginOnly #70",
+  "buildUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/70/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/70/allure"
+} ]

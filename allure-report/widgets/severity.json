@@ -1,0 +1,21 @@
+[ {
+  "uid" : "59a5860c46a27acc",
+  "name" : "Test expected failure",
+  "time" : {
+    "start" : 1604765739271,
+    "stop" : 1604765748253,
+    "duration" : 8982
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ee327763d895b3",
+  "name" : "Test Opening browser dialog",
+  "time" : {
+    "start" : 1604765748365,
+    "stop" : 1604765750597,
+    "duration" : 2232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

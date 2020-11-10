@@ -1,0 +1,136 @@
+{
+  "81ad419a7c767179dedbe8ae32ac7e57" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "27c19a655b24ac5c",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/69/allure/#testresult/27c19a655b24ac5c",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1604685007180,
+        "stop" : 1604685020353,
+        "duration" : 13173
+      }
+    }, {
+      "uid" : "5128a9a282472aa8",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/68/allure/#testresult/5128a9a282472aa8",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1604684888739,
+        "stop" : 1604684897782,
+        "duration" : 9043
+      }
+    }, {
+      "uid" : "7c6e1664e180aff5",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/67/allure/#testresult/7c6e1664e180aff5",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1604663622054,
+        "stop" : 1604663630314,
+        "duration" : 8260
+      }
+    }, {
+      "uid" : "5909b14751ecda1",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/66/allure/#testresult/5909b14751ecda1",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1604663533460,
+        "stop" : 1604663541382,
+        "duration" : 7922
+      }
+    } ]
+  },
+  "e1f5de24c8af9cd44cbd756a47d2480e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e6939534b8a78306",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/69/allure/#testresult/e6939534b8a78306",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604685020476,
+        "stop" : 1604685021040,
+        "duration" : 564
+      }
+    }, {
+      "uid" : "f437e68d1e10d542",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/68/allure/#testresult/f437e68d1e10d542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604684897881,
+        "stop" : 1604684898810,
+        "duration" : 929
+      }
+    }, {
+      "uid" : "b09990b5763b7f8b",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/67/allure/#testresult/b09990b5763b7f8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604663630418,
+        "stop" : 1604663630566,
+        "duration" : 148
+      }
+    }, {
+      "uid" : "7cab982f5da12cf9",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/66/allure/#testresult/7cab982f5da12cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604663541511,
+        "stop" : 1604663541729,
+        "duration" : 218
+      }
+    }, {
+      "uid" : "65afe51dccb530c4",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/65/allure/#testresult/65afe51dccb530c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604663387240,
+        "stop" : 1604663395924,
+        "duration" : 8684
+      }
+    }, {
+      "uid" : "b616412c28f87c4c",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/64/allure/#testresult/b616412c28f87c4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604660019404,
+        "stop" : 1604660027857,
+        "duration" : 8453
+      }
+    }, {
+      "uid" : "412f8e557dbb0718",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/61/allure/#testresult/412f8e557dbb0718",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604658510872,
+        "stop" : 1604658519054,
+        "duration" : 8182
+      }
+    }, {
+      "uid" : "a374778846fc5473",
+      "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure/#testresult/a374778846fc5473",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604658373391,
+        "stop" : 1604658382012,
+        "duration" : 8621
+      }
+    } ]
+  }
+}

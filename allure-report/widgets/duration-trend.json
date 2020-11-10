@@ -1,0 +1,141 @@
+[ {
+  "buildOrder" : 70,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/70/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 11326
+  }
+}, {
+  "buildOrder" : 69,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/69/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 13860
+  }
+}, {
+  "buildOrder" : 68,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/68/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 10071
+  }
+}, {
+  "buildOrder" : 67,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/67/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8512
+  }
+}, {
+  "buildOrder" : 66,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/66/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8269
+  }
+}, {
+  "buildOrder" : 65,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/65/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8684
+  }
+}, {
+  "buildOrder" : 64,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/64/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8453
+  }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/61/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8182
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/61/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8182
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 64,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/64/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8453
+  }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/61/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8182
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/61/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8182
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "https://webhook.socketxp.com/vivostanoev-e1j7i63f/job/build.local.repo/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8621
+  }
+} ]

@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "OpenBrowserTests",
+    "children" : [ {
+      "name" : "Test expected failure",
+      "uid" : "59a5860c46a27acc",
+      "parentUid" : "924c6d33ad4d3b77167d619087a57fe7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1604765739271,
+        "stop" : 1604765748253,
+        "duration" : 8982
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test Opening browser dialog",
+      "uid" : "6ee327763d895b3",
+      "parentUid" : "924c6d33ad4d3b77167d619087a57fe7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604765748365,
+        "stop" : 1604765750597,
+        "duration" : 2232
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "924c6d33ad4d3b77167d619087a57fe7"
+  } ]
+}

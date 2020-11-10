@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: OpenBrowserTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.411 s <<< FAILURE! - in OpenBrowserTests
+OpenBrowserTests.openBrowserAndFailTest  Time elapsed: 8.399 s  <<< FAILURE!
+java.lang.AssertionError
+	at OpenBrowserTests.openBrowserAndFailTest(OpenBrowserTests.java:28)
+

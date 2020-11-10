@@ -1,0 +1,801 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "EPBGSOFL0122",
+    "children" : [ {
+      "name" : "15668@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "6ee327763d895b3",
+        "parentUid" : "01f4306cd5ac1d39a7cfd36d10ffc1cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604765748365,
+          "stop" : 1604765750597,
+          "duration" : 2232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "59a5860c46a27acc",
+        "parentUid" : "01f4306cd5ac1d39a7cfd36d10ffc1cd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604765739271,
+          "stop" : 1604765748253,
+          "duration" : 8982
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "f713f7730065820f",
+        "parentUid" : "01f4306cd5ac1d39a7cfd36d10ffc1cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604765748365,
+          "stop" : 1604765750597,
+          "duration" : 2232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "9627acede17bc776",
+        "parentUid" : "01f4306cd5ac1d39a7cfd36d10ffc1cd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604765739271,
+          "stop" : 1604765748253,
+          "duration" : 8982
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "01f4306cd5ac1d39a7cfd36d10ffc1cd"
+    }, {
+      "name" : "7564@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "d3a43b6cb1495a38",
+        "parentUid" : "bce6783678ea3903023843513ccb1713",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604674608530,
+          "stop" : 1604674618136,
+          "duration" : 9606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "b49be86e2e865b83",
+        "parentUid" : "bce6783678ea3903023843513ccb1713",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604674618389,
+          "stop" : 1604674618691,
+          "duration" : 302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "d6d12db78fad1c18",
+        "parentUid" : "bce6783678ea3903023843513ccb1713",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604674608530,
+          "stop" : 1604674618136,
+          "duration" : 9606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "a998adf9554253c1",
+        "parentUid" : "bce6783678ea3903023843513ccb1713",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604674618389,
+          "stop" : 1604674618691,
+          "duration" : 302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bce6783678ea3903023843513ccb1713"
+    }, {
+      "name" : "18716@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "abc9b6181ffd63fb",
+        "parentUid" : "2ef0d9335f26918c3cdf953353a438b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604658510872,
+          "stop" : 1604658519054,
+          "duration" : 8182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "ed39421e90ec2d39",
+        "parentUid" : "2ef0d9335f26918c3cdf953353a438b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604658510872,
+          "stop" : 1604658519054,
+          "duration" : 8182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ef0d9335f26918c3cdf953353a438b9"
+    }, {
+      "name" : "8276@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "e9afec896cb4792f",
+        "parentUid" : "17c45d3a3df578c75a75f07f1a4b5bce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604683335540,
+          "stop" : 1604683335670,
+          "duration" : 130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "cb35e6395674606c",
+        "parentUid" : "17c45d3a3df578c75a75f07f1a4b5bce",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604683326292,
+          "stop" : 1604683335446,
+          "duration" : 9154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "5321556b2f8f794",
+        "parentUid" : "17c45d3a3df578c75a75f07f1a4b5bce",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604683326292,
+          "stop" : 1604683335446,
+          "duration" : 9154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "e6112c6f460c38e",
+        "parentUid" : "17c45d3a3df578c75a75f07f1a4b5bce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604683335540,
+          "stop" : 1604683335670,
+          "duration" : 130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17c45d3a3df578c75a75f07f1a4b5bce"
+    }, {
+      "name" : "8816@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "e1de7f7e91cdd07a",
+        "parentUid" : "6160ae2c4031e120aa44d9c766de279f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663387240,
+          "stop" : 1604663395924,
+          "duration" : 8684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "ef0fa16e517f1884",
+        "parentUid" : "6160ae2c4031e120aa44d9c766de279f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663387240,
+          "stop" : 1604663395924,
+          "duration" : 8684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6160ae2c4031e120aa44d9c766de279f"
+    }, {
+      "name" : "19320@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "82158c80534b9b34",
+        "parentUid" : "cb1f4a1c44bbd9c73a54085ac5f76bd0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604663622054,
+          "stop" : 1604663630314,
+          "duration" : 8260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "5bcd04d472a3afac",
+        "parentUid" : "cb1f4a1c44bbd9c73a54085ac5f76bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663630418,
+          "stop" : 1604663630566,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "fd76da786c7221dc",
+        "parentUid" : "cb1f4a1c44bbd9c73a54085ac5f76bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663630418,
+          "stop" : 1604663630566,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "9d70ddf0d354ed11",
+        "parentUid" : "cb1f4a1c44bbd9c73a54085ac5f76bd0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604663622054,
+          "stop" : 1604663630314,
+          "duration" : 8260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb1f4a1c44bbd9c73a54085ac5f76bd0"
+    }, {
+      "name" : "512@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "b9e76f328029550d",
+        "parentUid" : "6742c748f9d77876d782fd2ebfeef7c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604683335552,
+          "stop" : 1604683335700,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "173c42aa51c9d74b",
+        "parentUid" : "6742c748f9d77876d782fd2ebfeef7c3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604683326301,
+          "stop" : 1604683335455,
+          "duration" : 9154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "acbe63683b02d2c9",
+        "parentUid" : "6742c748f9d77876d782fd2ebfeef7c3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604683326301,
+          "stop" : 1604683335455,
+          "duration" : 9154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "4ebf60cc704010f0",
+        "parentUid" : "6742c748f9d77876d782fd2ebfeef7c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604683335552,
+          "stop" : 1604683335700,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6742c748f9d77876d782fd2ebfeef7c3"
+    }, {
+      "name" : "15464@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "41d393eab7d0c4a4",
+        "parentUid" : "49a2adfb100eb0e12c01cf4d4b43cbc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663541511,
+          "stop" : 1604663541729,
+          "duration" : 218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "3cde0bce6f106192",
+        "parentUid" : "49a2adfb100eb0e12c01cf4d4b43cbc8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604663533460,
+          "stop" : 1604663541382,
+          "duration" : 7922
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "9064c1773bcbcc09",
+        "parentUid" : "49a2adfb100eb0e12c01cf4d4b43cbc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604663541511,
+          "stop" : 1604663541729,
+          "duration" : 218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "8585126242dc027",
+        "parentUid" : "49a2adfb100eb0e12c01cf4d4b43cbc8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604663533460,
+          "stop" : 1604663541382,
+          "duration" : 7922
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49a2adfb100eb0e12c01cf4d4b43cbc8"
+    }, {
+      "name" : "9364@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "2a6d976933e51c96",
+        "parentUid" : "c5650dbef25e1b9f7b43ee2f58af88d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604685020476,
+          "stop" : 1604685021040,
+          "duration" : 564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "c48a22b5baa583d4",
+        "parentUid" : "c5650dbef25e1b9f7b43ee2f58af88d0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604685007180,
+          "stop" : 1604685020353,
+          "duration" : 13173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "fe9f94e7491a62dc",
+        "parentUid" : "c5650dbef25e1b9f7b43ee2f58af88d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604685020476,
+          "stop" : 1604685021040,
+          "duration" : 564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "fd12c30d63fbed74",
+        "parentUid" : "c5650dbef25e1b9f7b43ee2f58af88d0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604685007180,
+          "stop" : 1604685020353,
+          "duration" : 13173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5650dbef25e1b9f7b43ee2f58af88d0"
+    }, {
+      "name" : "2060@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "23019a0066cfb716",
+        "parentUid" : "5908d382c497fcf66a295e9b279e9456",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604684888739,
+          "stop" : 1604684897782,
+          "duration" : 9043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "72186a083a864ed2",
+        "parentUid" : "5908d382c497fcf66a295e9b279e9456",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604684897881,
+          "stop" : 1604684898810,
+          "duration" : 929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "2a3b556c0845d51f",
+        "parentUid" : "5908d382c497fcf66a295e9b279e9456",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604684897881,
+          "stop" : 1604684898810,
+          "duration" : 929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "d0a089ed09c81ce",
+        "parentUid" : "5908d382c497fcf66a295e9b279e9456",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604684888739,
+          "stop" : 1604684897782,
+          "duration" : 9043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5908d382c497fcf66a295e9b279e9456"
+    }, {
+      "name" : "11836@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "ea8d8dcaeac75eb6",
+        "parentUid" : "4cbac23c6e7b91d707260e25ad9ff721",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604675005281,
+          "stop" : 1604675018076,
+          "duration" : 12795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "3e3f38bd117d19f4",
+        "parentUid" : "4cbac23c6e7b91d707260e25ad9ff721",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604675018467,
+          "stop" : 1604675019373,
+          "duration" : 906
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "d08299b5f3cfc5dc",
+        "parentUid" : "4cbac23c6e7b91d707260e25ad9ff721",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604675018467,
+          "stop" : 1604675019373,
+          "duration" : 906
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "dfb9930fdc55b430",
+        "parentUid" : "4cbac23c6e7b91d707260e25ad9ff721",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604675005281,
+          "stop" : 1604675018076,
+          "duration" : 12795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cbac23c6e7b91d707260e25ad9ff721"
+    }, {
+      "name" : "24720@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "7c0e350255671f31",
+        "parentUid" : "99ef66d6a115673c68794b51a99df1d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604674103219,
+          "stop" : 1604674115391,
+          "duration" : 12172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "7e1fa85fce7a4d8c",
+        "parentUid" : "99ef66d6a115673c68794b51a99df1d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604674115634,
+          "stop" : 1604674116182,
+          "duration" : 548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "c862ecfb148548aa",
+        "parentUid" : "99ef66d6a115673c68794b51a99df1d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604674115634,
+          "stop" : 1604674116182,
+          "duration" : 548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "773c869764b453c4",
+        "parentUid" : "99ef66d6a115673c68794b51a99df1d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604674103219,
+          "stop" : 1604674115391,
+          "duration" : 12172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99ef66d6a115673c68794b51a99df1d6"
+    }, {
+      "name" : "24284@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "1a97bc0787dfb7aa",
+        "parentUid" : "179f0d2ba77985c45caf342b093ef8b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604660019404,
+          "stop" : 1604660027857,
+          "duration" : 8453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "69a8eeaaa62fc051",
+        "parentUid" : "179f0d2ba77985c45caf342b093ef8b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604660019404,
+          "stop" : 1604660027857,
+          "duration" : 8453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "179f0d2ba77985c45caf342b093ef8b4"
+    }, {
+      "name" : "25296@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "cd6c4d58af424bec",
+        "parentUid" : "0c32185338f1941f98a433537c532e5c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604675005399,
+          "stop" : 1604675018005,
+          "duration" : 12606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "8ad2a2acb69708b1",
+        "parentUid" : "0c32185338f1941f98a433537c532e5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604675018338,
+          "stop" : 1604675019325,
+          "duration" : 987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "e7a84e2883d1a2d9",
+        "parentUid" : "0c32185338f1941f98a433537c532e5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604675018338,
+          "stop" : 1604675019325,
+          "duration" : 987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "84d776d623c93bc0",
+        "parentUid" : "0c32185338f1941f98a433537c532e5c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604675005399,
+          "stop" : 1604675018005,
+          "duration" : 12606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c32185338f1941f98a433537c532e5c"
+    }, {
+      "name" : "22312@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test Opening browser dialog",
+        "uid" : "232e6bfb08613caf",
+        "parentUid" : "dce226e9677a05b3b1608513f6878dd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604658373391,
+          "stop" : 1604658382012,
+          "duration" : 8621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "2fc4c52f7b2f7766",
+        "parentUid" : "dce226e9677a05b3b1608513f6878dd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604658373391,
+          "stop" : 1604658382012,
+          "duration" : 8621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dce226e9677a05b3b1608513f6878dd5"
+    }, {
+      "name" : "15968@EPBGSOFL0122.main(1)",
+      "children" : [ {
+        "name" : "Test expected failure",
+        "uid" : "51fc066989161a92",
+        "parentUid" : "f30b2b05de5f408e7a3a78b63a861522",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604673158202,
+          "stop" : 1604673167985,
+          "duration" : 9783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "216af06320b32971",
+        "parentUid" : "f30b2b05de5f408e7a3a78b63a861522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604673168144,
+          "stop" : 1604673168373,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test expected failure",
+        "uid" : "efbdf4c5b6c5b154",
+        "parentUid" : "f30b2b05de5f408e7a3a78b63a861522",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604673158202,
+          "stop" : 1604673167985,
+          "duration" : 9783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Opening browser dialog",
+        "uid" : "dfc9b95502ee72c3",
+        "parentUid" : "f30b2b05de5f408e7a3a78b63a861522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604673168144,
+          "stop" : 1604673168373,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f30b2b05de5f408e7a3a78b63a861522"
+    } ],
+    "uid" : "d669844b3532be42852e9faf90ceca72"
+  } ]
+}

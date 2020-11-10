@@ -1,0 +1,190 @@
+[1604663534.609][INFO]: Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 38088
+[1604663534.609][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1604663535.474][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "acceptInsecureCerts": true,
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--proxy-bypass-list=\u003C-loopback>", "--disable-dev-shm-usage", "--no-sandbox" ],
+            "excludeSwitches": [ "enable-automation", "load-extension" ],
+            "extensions": [  ],
+            "prefs": {
+               "credentials_enable_service": false,
+               "download.default_directory": "C:\\Users\\Viliyan_Stanoev\\Documents\\GitHub\\testing_jenkins\\TestJenkins\\build\\downloads\\1604663533548_15464_1",
+               "plugins.always_open_pdf_externally": true
+            }
+         },
+         "pageLoadStrategy": "normal"
+      } ]
+   },
+   "desiredCapabilities": {
+      "acceptInsecureCerts": true,
+      "acceptSslCerts": true,
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--proxy-bypass-list=\u003C-loopback>", "--disable-dev-shm-usage", "--no-sandbox" ],
+         "excludeSwitches": [ "enable-automation", "load-extension" ],
+         "extensions": [  ],
+         "prefs": {
+            "credentials_enable_service": false,
+            "download.default_directory": "C:\\Users\\Viliyan_Stanoev\\Documents\\GitHub\\testing_jenkins\\TestJenkins\\build\\downloads\\1604663533548_15464_1",
+            "plugins.always_open_pdf_externally": true
+         }
+      },
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "pageLoadStrategy": "normal",
+      "takesScreenshot": true
+   }
+}
+[1604663535.480][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "credentials_enable_service": false,
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "download": {
+      "default_directory": "C:\\Users\\Viliyan_Stanoev\\Documents\\GitHub\\testing_jenkins\\TestJenkins\\build\\downloads\\1604663533548_15464_1"
+   },
+   "plugins": {
+      "always_open_pdf_externally": true
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1604663535.481][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1604663535.483][INFO]: Cannot switch to US keyboard layout - some keys may be interpreted incorrectly
+[1604663535.483][INFO]: Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-blink-features=ShadowDOMV0 --enable-logging --ignore-certificate-errors --log-level=0 --no-first-run --no-sandbox --password-store=basic --proxy-bypass-list=<-loopback> --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\WINDOWS\TEMP\scoped_dir21444_1032517753" data:,
+[1604663536.046][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1604663538.080][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1604663540.118][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": true,
+      "browserName": "chrome",
+      "browserVersion": "86.0.4240.183",
+      "chrome": {
+         "chromedriverVersion": "86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378})",
+         "userDataDir": "C:\\WINDOWS\\TEMP\\scoped_dir21444_1032517753"
+      },
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:49178"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "windows",
+      "proxy": {
+
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "4db6c948887498c24e085a5bfdfca0dc"
+}
+[1604663540.220][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND SetWindowRect {
+   "height": 768,
+   "width": 1366
+}
+[1604663540.220][INFO]: Waiting for pending navigations...
+[1604663540.224][INFO]: Done waiting for pending navigations. Status: ok
+[1604663540.335][INFO]: Waiting for pending navigations...
+[1604663540.335][INFO]: Done waiting for pending navigations. Status: ok
+[1604663540.335][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE SetWindowRect {
+   "height": 768,
+   "width": 1044,
+   "x": 10,
+   "y": 10
+}
+[1604663540.342][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND SetTimeouts {
+   "pageLoad": 30000
+}
+[1604663540.342][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE SetTimeouts
+[1604663540.350][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND Navigate {
+   "url": "https://www.demoblaze.com/"
+}
+[1604663540.350][INFO]: Waiting for pending navigations...
+[1604663540.351][INFO]: Done waiting for pending navigations. Status: ok
+[1604663540.687][INFO]: Waiting for pending navigations...
+[1604663541.362][INFO]: Done waiting for pending navigations. Status: ok
+[1604663541.362][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE Navigate
+[1604663541.514][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND GetTitle {
+
+}
+[1604663541.514][INFO]: Waiting for pending navigations...
+[1604663541.514][INFO]: Done waiting for pending navigations. Status: ok
+[1604663541.516][INFO]: Waiting for pending navigations...
+[1604663541.517][INFO]: Done waiting for pending navigations. Status: ok
+[1604663541.517][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE GetTitle "STORE"
+[1604663541.524][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND Navigate {
+   "url": "https://www.demoblaze.com/"
+}
+[1604663541.524][INFO]: Waiting for pending navigations...
+[1604663541.525][INFO]: Done waiting for pending navigations. Status: ok
+[1604663541.630][INFO]: Waiting for pending navigations...
+[1604663541.729][INFO]: Done waiting for pending navigations. Status: ok
+[1604663541.729][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE Navigate
+[1604663541.784][INFO]: [4db6c948887498c24e085a5bfdfca0dc] COMMAND Quit {
+
+}
+[1604663541.847][INFO]: [4db6c948887498c24e085a5bfdfca0dc] RESPONSE Quit
