@@ -6,7 +6,7 @@ pipeline {
                 docker { image 'anapsix/alpine-java' }
             }
             steps {
-                sh 'anapsix/alpine-java'
+                echo 'anapsix/alpine-java'
             }
         }
         stage('Pull standalone') {
